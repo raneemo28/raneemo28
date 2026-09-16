@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated Information Technology student at the Higher Institute for Applied Sciences and Technology with a focus on Full-Stack Development and UX Research. Proven ability to bridge the gap between technical backend development (ASP.NET) and user-centric design. Certified in Prompt Engineering and UX Design, with a strong multilingual background and a commitment to continuous technical growth
+Dedicated Information Technology student at the Higher Institute for Applied Sciences and Technology with a focus on backend development. Proven ability to bridge the gap between technical backend development (ASP.NET) and user-centric design. Certified in Prompt Engineering and UX Design, with a strong multilingual background and a commitment to continuous technical growth
 
 
 ## 🌐 Socials:
